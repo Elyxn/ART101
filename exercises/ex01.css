@@ -1,0 +1,49 @@
+HTML {background-color: peachpuff;}
+
+A {color: lawngreen;}
+A:hover {color: aqua; background:brown;}
+
+UL {color: red;}
+
+H1 {background:blue; color:aqua;}
+
+
+P{color: Purple;}
+
+
+
+P {
+    background-color: cornsilk;
+    padding: 50px;
+    margin: 50px;
+    font-size: 8px;
+
+}
+    P:hover {color:rgb(28,54,0); background:darksalmon} 
+
+
+IMG {display: block; 
+    margin-left:auto; 
+    margin-right:auto;
+    width: 50%;
+}
+
+#beyonce {width:70%;}
+
+A:hover {color:blue; background:wheat;} 
+
+
+.highlight_01 {background-color:coral;}
+.highlight_01 strong{background-color:magenta;}
+
+
+#main{background-color:lightblue; 
+    padding: 50px;
+    font-size: 20px;
+    box-shadow: 7px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+#gallery{ display:flex; 
+align-items: flex-start; row-gap: 10px;}
+#gallery IMG {width:50px;}
